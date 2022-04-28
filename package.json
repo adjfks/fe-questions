@@ -1,0 +1,22 @@
+{
+  "name": "fe-questions",
+  "version": "1.0.0",
+  "description": "'one frontend question a day'",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adjfks/fe-questions.git"
+  },
+  "author": "coner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adjfks/fe-questions/issues"
+  },
+  "homepage": "https://github.com/adjfks/fe-questions#readme",
+  "devDependencies": {
+    "jest": "^28.0.2"
+  }
+}
